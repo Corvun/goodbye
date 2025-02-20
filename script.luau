@@ -1,1 +1,1 @@
-warn("YAY")
+warn("ez")
