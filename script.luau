@@ -1,1 +1,1 @@
-warn("fucking peice of shit")
+warn("kill yourself")
