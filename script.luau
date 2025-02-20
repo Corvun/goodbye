@@ -1,1 +1,1 @@
-warn("kill yourself")
+warn("YAY")
