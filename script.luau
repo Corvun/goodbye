@@ -1,0 +1,1 @@
+print("wassup im from another game :)")
