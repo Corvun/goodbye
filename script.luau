@@ -1,1 +1,1 @@
-print("wassup im from another game :)")
+warn("fucking peice of shit")
