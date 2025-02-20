@@ -1,1 +1,1 @@
-warn("ez got u wet")
+warn("get a fucking life")
