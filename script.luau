@@ -1,1 +1,1 @@
-print("wassup im from another game :)")
+print("wassup im from another game :/")
